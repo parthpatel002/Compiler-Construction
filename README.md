@@ -6,5 +6,5 @@ This repo contains `C` code to implement a compiler for a custom programming lan
 2. `support_grammar.pdf`: It contains analysis to convert grammar given in language specifications document to a LL(1) grammar.
 3. `Stage_1_Milestones.txt`: It contains the list of compiler stages to be completed for stage 1 submission.
 
-This work was done in a team of four, with my teammates being (Sankalp Sangle)[https://github.com/sankalp-sangle], (Megh Thakkar)[https://github.com/Megh-Thakkar] and (Sahil Singla)[https://github.com/Sahil-Singla].
+This work was done in a team of four, with my teammates being [Sankalp Sangle](https://github.com/sankalp-sangle), [Megh Thakkar](https://github.com/Megh-Thakkar) and [Sahil Singla](https://github.com/Sahil-Singla).
 
