@@ -8,7 +8,7 @@ The remaining file description is as follows:
 
 1. `Final_LL1_Grammar.txt`: It contains the LL(1) grammar for the syntax of the custom language.
 2. `support_grammar.pdf`: It contains analysis to convert grammar given in language specifications document to a LL(1) grammar.
-3. `Stage_1_Milestones.txt`: It contains the list of compiler stages to be completed for stage 1 submission.
+3. `Stage_1_Milestones.txt`: It contains the list of compiler modules to be completed for stage 1 submission.
 
 This work was done in a team of four, with my teammates being [Sankalp Sangle](https://github.com/sankalp-sangle), [Megh Thakkar](https://github.com/Megh-Thakkar) and [Sahil Singla](https://github.com/Sahil-Singla).
 
